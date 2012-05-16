@@ -1,0 +1,13 @@
+Build Instructions
+==================
+
+You'll need to use at least version 4.2 of the iPhone SDK
+
+iReddit requires TouchJSON and Three20 to build.
+
+In the project directory simply run the following command to retrieve the submodules:
+
+	git submodule update --init
+
+You should then be able to build iReddit.
+
