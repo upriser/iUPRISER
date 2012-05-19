@@ -220,7 +220,7 @@
 
 - (void)requestFailed
 {
-	[[[[UIAlertView alloc] initWithTitle:@"Whoops!" message:@"This is not the reddit you were looking for. We couldn't find anything at that URL. Try again." delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil] autorelease] show];
+	[[[[UIAlertView alloc] initWithTitle:@"Whoops!" message:@"This is not the movement you were looking for. We couldn't find anything at that URL. Try again." delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil] autorelease] show];
 }
 
 - (void)viewDidUnload 

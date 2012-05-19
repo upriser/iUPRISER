@@ -403,10 +403,10 @@
 				[controller setSubject:[NSString stringWithFormat:@"check out this UPRISER link from %@", 
 										story.subreddit ? [NSString stringWithFormat:@"the %@ movement", story.subreddit] : @"reddit"]];
 
-			[controller setMessageBody:[NSString stringWithFormat:@"Check this out... \n\n\"%@\"\n%@\n\n%@\n%@\n\n\nSent from UPRISER http://upriser.com",
+			[controller setMessageBody:[NSString stringWithFormat:@"Check this out... \n\n\"%@\"\n%@%@\n%@\n\n\nSent from UPRISER http://upriser.com",
 										story.title ? story.title : @"", 
 										story.URL, 
-										story.totalComments ? @"Join the discussion here:" : @"", 
+										story.totalComments ? @"\n\nJoin the discussion here:" : @"", 
 										story.totalComments ? story.commentsURL : @""]
 								isHTML:NO];
 

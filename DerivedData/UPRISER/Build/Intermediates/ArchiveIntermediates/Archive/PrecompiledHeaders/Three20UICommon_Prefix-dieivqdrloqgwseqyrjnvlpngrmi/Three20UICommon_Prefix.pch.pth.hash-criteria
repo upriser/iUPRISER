@@ -1,0 +1,28 @@
+Contents of /Users/john/Desktop/ios-apps/iUPRISER/iUPRISER/three20/src/Three20UICommon/Headers/Three20UICommon_Prefix.pch
+3.1 (tags/Apple/clang-318.0.58) (based on LLVM 3.1svn)
+arm-apple-darwin11.3.0
+-x
+objective-c
+-arch
+armv7
+-fmessage-length=0
+-std=c99
+-fpascal-strings
+-O0
+-DDEBUG
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+-g
+-mthumb
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-miphoneos-version-min=3.0
+-iquote
+-iquote
+-I/Users/john/Desktop/ios-apps/iUPRISER/iUPRISER/DerivedData/UPRISER/Build/Intermediates/ArchiveIntermediates/Archive/BuildProductsPath/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include
+-I/Users/john/Desktop/ios-apps/iUPRISER/iUPRISER/DerivedData/UPRISER/Build/Intermediates/ArchiveIntermediates/Archive/BuildProductsPath/Debug-iphoneos/../three20
+-F/Users/john/Desktop/ios-apps/iUPRISER/iUPRISER/DerivedData/UPRISER/Build/Intermediates/ArchiveIntermediates/Archive/BuildProductsPath/Debug-iphoneos
+-F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks
+SDK_PRODUCT_BUILD_VERSION=9B176

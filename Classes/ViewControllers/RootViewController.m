@@ -457,12 +457,14 @@
 		[result addObjectsFromArray:
 			[NSArray arrayWithObjects:	
 					[TTTableTextItem itemWithText:@"UPRISER" URL:@"/r/upriser/"],
-					[TTTableTextItem itemWithText:@"Anonymous" URL:@"/r/anonymous/"],
-					[TTTableTextItem itemWithText:@"Education Reform" URL:@"/r/educationreform/"],
-					[TTTableTextItem itemWithText:@"Innovation" URL:@"/r/innovation/"],
-					[TTTableTextItem itemWithText:@"Internet Freedom" URL:@"/r/internetfreedom/"],
-					[TTTableTextItem itemWithText:@"funny" URL:@"/r/funny/"],
+                    [TTTableTextItem itemWithText:@"Innovation" URL:@"/r/innovation/"],
+                    [TTTableTextItem itemWithText:@"Education Reform" URL:@"/r/educationreform/"],
+                    [TTTableTextItem itemWithText:@"Internet Freedom" URL:@"/r/internetfreedom/"],
+					[TTTableTextItem itemWithText:@"Get $ Out of Politics" URL:@"/r/moneyout/"],
 					[TTTableTextItem itemWithText:@"Wayseers" URL:@"/r/wayseers/"],
+                    [TTTableTextItem itemWithText:@"Startup!" URL:@"/r/startup/"],
+                    [TTTableTextItem itemWithText:@"Uplift" URL:@"/r/uplift/"],
+                    [TTTableTextItem itemWithText:@"funny" URL:@"/r/funny/"],
 				nil]
 		 ];
 	}

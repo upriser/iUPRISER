@@ -1,0 +1,1 @@
+/Users/john/Desktop/ios-apps/iUPRISER/iUPRISER/DerivedData/UPRISER/Build/Intermediates/ArchiveIntermediates/Archive/IntermediateBuildFilesPath/UninstalledProducts/UPRISER.app

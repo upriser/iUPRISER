@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/john/Desktop/ios-apps/iUPRISER/iUPRISER/three20/src/Three20Style/Sources/TTBlendStyle.m \
+  /Users/john/Desktop/ios-apps/iUPRISER/iUPRISER/three20/src/Three20Style/Headers/TTBlendStyle.h \
+  /Users/john/Desktop/ios-apps/iUPRISER/iUPRISER/three20/src/Three20Style/Headers/TTStyle.h
